@@ -1,12 +1,11 @@
  public class Exercise8_Stewie2 {
     public static void main(String[] args) {
         int x = 5;
-
+        top();
         for (int i = 0; i < 5; i++) {
-            divisor();
             vim();
+            divisor();
         }
-        divisor();
     }
 
      public static void top() {
