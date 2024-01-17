@@ -39,10 +39,22 @@ public class Lecture02 {
     // NEXT run the program and see the results (you can copy-and-paste it here)
     // (I'm not including it in the starter project so that people don't just run
     // it as the first thing they do :) )
+//    I am method 1.
+//    I am method 1.
+//    I am method 2.
+//    I am method 3.
+//    I am method 1.
+//    I am method 1.
+//    I am method 2.
+//    I am method 1.
+//    I am method 2.
+//    I am method 3.
+//    I am method 1.
 
     // LASTLY compare the two results and if they're different go back and figure
     // out
     // why the computer's output is different from what you predicted.
+    // My result, initially, was not different.
 
     // EXERCISES:
 
